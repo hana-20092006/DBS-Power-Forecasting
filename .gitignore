@@ -1,0 +1,71 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Python Packaging
+# =========================
+*.egg-info/
+dist/
+build/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Project Data
+# =========================
+data/raw/
+data/processed/
+data/features/
+data/splits/
+
+# =========================
+# Generated Model Files
+# =========================
+models/xgboost/*.json
+models/lstm/*.pt
+models/lstm/*.pth
+models/transformer/*.pt
+models/transformer/*.pth
+
+# =========================
+# Generated Pickle / Scaler Files
+# =========================
+*.pkl
+
+# =========================
+# Keep Results
+# =========================
+!models/ensemble/
+!models/shap/
+!models/visualizations/
+
+# Local cache
+.cache.sqlite
