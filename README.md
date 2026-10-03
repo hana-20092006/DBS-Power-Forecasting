@@ -250,3 +250,26 @@ GitHub: [@hana-20092006](https://github.com/hana-20092006)
 ## License
 
 This project is intended for academic and educational use.
+
+
+## 📈 Visualizations
+
+### GHI Distribution
+
+![GHI Distribution](results/figures/ghi_distribution.png)
+
+### Temperature Distribution
+
+![Temperature Distribution](results/figures/temperature_distribution.png)
+
+### Wind Speed Distribution
+
+![Wind Speed Distribution](results/figures/wind_speed_distribution.png)
+
+
+# 👥 Contributors
+
+This project was developed collaboratively by:
+
+- **Hana Maria Philip** — [GitHub](https://github.com/hana-20092006)
+- **Bhavana Reddy R** — [GitHub](https://github.com/River739)
