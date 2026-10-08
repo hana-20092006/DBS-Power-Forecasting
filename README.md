@@ -241,12 +241,6 @@ This provides a time-based test of generalization to a later period.
 - SHAP provides feature-level explainability for the XGBoost model.
 - The final 2025 OOT results show high R² values for both Chennai and Delhi.
 
-## Author
-
-**Hana Maria Philip**
-
-GitHub: [@hana-20092006](https://github.com/hana-20092006)
-
 ## License
 
 This project is intended for academic and educational use.
