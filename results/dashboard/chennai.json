@@ -1,0 +1,19 @@
+{
+    "land_area_km2": 1.0,
+    "solar_area_km2": 0.6,
+    "wind_area_km2": 0.4,
+    "solar_capacity_mw": 54.0,
+    "wind_capacity_mw": 4.0,
+    "hybrid_capacity_mw": 58.0,
+    "annual_solar_generation_mwh": 90777.02670000002,
+    "annual_wind_generation_mwh": 26503.6595176428,
+    "annual_total_generation_mwh": 117280.68621764283,
+    "solar_capex_inr": 2430000000.0,
+    "wind_capex_inr": 320000000.0,
+    "total_capex_inr": 2750000000.0,
+    "annual_revenue_inr": 586403431.0882142,
+    "annual_om_inr": 55000000.0,
+    "annual_net_revenue_inr": 531403431.08821416,
+    "payback_years": 5.174975995861596,
+    "roi_25_year_percent": 383.0940282620129
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "City": "chennai",
+        "Dataset": "2025 OOT",
+        "MAE_MW": 0.1823842914814153,
+        "RMSE_MW": 0.3607633977575036,
+        "R2": 0.9993293782135122,
+        "sMAPE_percent": 15.019516876860486,
+        "Model": "XGBOOST"
+    },
+    {
+        "City": "delhi",
+        "Dataset": "2025 OOT",
+        "MAE_MW": 0.1677979271090639,
+        "RMSE_MW": 0.3028359682704481,
+        "R2": 0.9993802185148248,
+        "sMAPE_percent": 8.03777243278239,
+        "Model": "XGBOOST"
+    },
+    {
+        "City": "chennai",
+        "Dataset": "2025 OOT",
+        "MAE_MW": 1.6543485880147868,
+        "RMSE_MW": 2.552986309547119,
+        "R2": 0.9664162109811694,
+        "sMAPE_percent": 33.41685057780601,
+        "Model": "LSTM"
+    },
+    {
+        "City": "delhi",
+        "Dataset": "2025 OOT",
+        "MAE_MW": 1.3521931716164992,
+        "RMSE_MW": 1.9673957333590333,
+        "R2": 0.9738418432802104,
+        "sMAPE_percent": 28.98339663434581,
+        "Model": "LSTM"
+    },
+    {
+        "City": "chennai",
+        "Dataset": "2025 OOT",
+        "MAE_MW": 1.6842378656653634,
+        "RMSE_MW": 2.453178568864154,
+        "R2": 0.968990765511642,
+        "sMAPE_percent": 35.1673450219967,
+        "Model": "TRANSFORMER"
+    },
+    {
+        "City": "delhi",
+        "Dataset": "2025 OOT",
+        "MAE_MW": 1.33741907357862,
+        "RMSE_MW": 2.0075222951264764,
+        "R2": 0.9727639300240466,
+        "sMAPE_percent": 29.09034707752645,
+        "Model": "TRANSFORMER"
+    }
+]

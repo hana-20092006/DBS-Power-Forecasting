@@ -1,0 +1,26 @@
+{
+    "validation": [
+        {
+            "City": "chennai",
+            "Dataset": "2025 OOT",
+            "MAE_MW": 0.1823842891285503,
+            "RMSE_MW": 0.3607634002548801,
+            "R2": 0.9993293782042276,
+            "sMAPE_percent": 15.019516877429428,
+            "XGBoost_weight": 1.0,
+            "LSTM_weight": 0.0,
+            "Transformer_weight": 0.0
+        },
+        {
+            "City": "delhi",
+            "Dataset": "2025 OOT",
+            "MAE_MW": 0.1677979270183092,
+            "RMSE_MW": 0.3028359622396939,
+            "R2": 0.99938021853951,
+            "sMAPE_percent": 8.037772449680942,
+            "XGBoost_weight": 1.0,
+            "LSTM_weight": 0.0,
+            "Transformer_weight": 0.0
+        }
+    ]
+}
